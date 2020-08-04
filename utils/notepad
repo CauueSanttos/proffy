@@ -1,0 +1,2 @@
+- Criação de Projeto React com Template
+yarn create react-app web --template typescript
