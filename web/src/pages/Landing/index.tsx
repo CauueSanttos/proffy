@@ -13,7 +13,7 @@ import './styles.css';
 const Landing: React.FC = () => {
   return (
     <div id="page-landing">
-      <div id="page-landing-content" className="coontainer">
+      <div id="page-landing-content" className="container">
         <div className="logo-container">
           <img src={logoImg} alt="Proffy" />
           <h2>Sua plataforma de estudos online.</h2>
